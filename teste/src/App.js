@@ -13,6 +13,7 @@ function App() {
         <FiSearch size={25} color='#FFF'/>
       </div>
 
+
      <main className='main'>
       <h2>CEP: 77777777</h2>
 
@@ -22,7 +23,6 @@ function App() {
       <span>Cricuma - SC</span>
 
      </main>
-
 
     </div>
   );
